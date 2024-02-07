@@ -1,4 +1,4 @@
-Thanks for visiting my github account!
+Thanks for visiting my GitHub account!
 
 ## Download Offline
 
@@ -15,13 +15,13 @@ Thanks for visiting my github account!
 |Primary-1|Primary-2|
 |![primary-1](https://github.com/learnwithfair/sql-database/blob/main/screenshort/p-1.jpg)|![primary-2](https://github.com/learnwithfair/sql-database/blob/main/screenshort/p-2.jpg)
 |Intermediate-1.1|Intermediate-1.2|
-|![Intermediate-1](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-1.1.jpg)||![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-1.2.jpg)|
+|![Intermediate-1](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-1.1.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-1.2.jpg)|
 |Intermediate-2.1|Intermediate-2.2|
 ![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-2.1.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-2.2.jpg)|
 |Intermediate-3.1|Intermediate-3.2|
 |![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-3.1.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-3.2.jpg)|
 |Intermediate-4|Intermediate-5.1|
-![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-4.jpg)||![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-5.1.jpg)|
+![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-4.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-5.1.jpg)|
 |Intermediate-5.2|
 ![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-5.2.jpg)|
 
