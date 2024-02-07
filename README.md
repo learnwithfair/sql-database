@@ -1,26 +1,29 @@
 Thanks for visiting my github account!
 
-## Download Ofline
+## Download Offline
 
-- Download Full Source Code. visit -> https://themewagon.com/theme-tag/restaurant-template/
+- Download the Full Source Code. visit -> https://themewagon.com/theme-tag/restaurant-template/
 - Download Software. visit -> https://themewagon.com/theme-tag/restaurant-template/
 
-## Online Source
+## Download Online
 - visit ->https://www.microsoft.com/en-us/download/details.aspx?id=101064
 
 ## Project Screenshot
 
-|   |   |   |
-|:---:|:---:|:---:|
-|Primary-1|Primary-2|Intermediate-1.1|
-|![primary-1](https://github.com/learnwithfair/sql-database/blob/main/screenshort/p-1.jpg)|![primary-2](https://github.com/learnwithfair/sql-database/blob/main/screenshort/p-2.jpg)|![Intermediate-1](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-1.1.jpg)|
-|Intermediate-1.2|Intermediate-2.1|Intermediate-2.2|
-|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-1.2.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-2.1.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-2.2.jpg)|
-|Intermediate-3.1|Intermediate-3.2|Intermediate-4|
-|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-3.1.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-3.2.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-2.2.jpg)|
-|Intermediate-|Intermediate-5.1|Intermediate-5.2|
-|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-4.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-5.1.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-5.2.jpg)|
-
+|   |   |
+|:---:|:---:|
+|Primary-1|Primary-2|
+|![primary-1](https://github.com/learnwithfair/sql-database/blob/main/screenshort/p-1.jpg)|![primary-2](https://github.com/learnwithfair/sql-database/blob/main/screenshort/p-2.jpg)
+|Intermediate-1.1|Intermediate-1.2|
+|![Intermediate-1](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-1.1.jpg)||![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-1.2.jpg)|
+|Intermediate-2.1|Intermediate-2.2|
+![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-2.1.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-2.2.jpg)|
+|Intermediate-3.1|Intermediate-3.2|
+|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-3.1.jpg)|![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-3.2.jpg)|
+|Intermediate-4|Intermediate-5.1|
+![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-4.jpg)||![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-5.1.jpg)|
+|Intermediate-5.2|
+![Intermediate](https://github.com/learnwithfair/sql-database/blob/main/screenshort/I-5.2.jpg)|
 
 ### Some SQL Query 
 
