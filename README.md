@@ -1,5 +1,12 @@
 Thanks for visiting my GitHub account!
 
+![](https://cdn-icons-png.freepik.com/512/4248/4248443.png)
+ **Structured Query Language(SQL)** is a standard database language used to access and manipulate data in databases. SQL was developed by IBM Computer Scientists in the 1970s. By executing queries SQL can create, update, delete, and retrieve data in databases like MySQL, Oracle, PostgreSQL, etc. Overall SQL is a query language that communicates with databases.
+
+## For Information
+- https://www.w3schools.com/sql/
+- https://www.geeksforgeeks.org/sql-tutorial/
+
 ## Download Offline
 
 - Download the Full Source Code. visit -> https://mega.nz/folder/oX9jXJAJ#Dh5dpdMGB5SZZ2Dsqe1E6g
@@ -7,6 +14,8 @@ Thanks for visiting my GitHub account!
 
 ## Download Online
 - visit ->https://www.microsoft.com/en-us/download/details.aspx?id=101064
+
+
 
 ## Project Screenshot
 
