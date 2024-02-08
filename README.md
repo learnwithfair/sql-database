@@ -2,8 +2,8 @@ Thanks for visiting my GitHub account!
 
 ## Download Offline
 
-- Download the Full Source Code. visit -> https://themewagon.com/theme-tag/restaurant-template/
-- Download Software. visit -> https://themewagon.com/theme-tag/restaurant-template/
+- Download the Full Source Code. visit -> https://mega.nz/folder/oX9jXJAJ#Dh5dpdMGB5SZZ2Dsqe1E6g
+- Download Software. visit -> https://mega.nz/file/EHUDDDrQ#HvsoZvjVc9UoLkCVfdDLT0KV0tZ93lR16C-geBGUtiM
 
 ## Download Online
 - visit ->https://www.microsoft.com/en-us/download/details.aspx?id=101064
